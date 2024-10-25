@@ -1,3 +1,5 @@
+__Important!!__ This repository is deprecated. Please refer to the new implementation in the following repository: https://github.com/EvergineTeam/Draco.Net
+
 <p align="center">
 <img width="350px" src="docs/artwork/draco3d-vert.svg" />
 </p>
